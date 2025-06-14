@@ -1,0 +1,114 @@
+body {
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: white;
+      font-family: 'Poppins', sans-serif;
+    
+ 
+      
+      
+}
+    .highlight-box {
+      background-color: white;
+      color: red;
+      padding: 10px 20px;
+      border-radius: 15px;
+      font-weight: bold;
+      font-size: 1.5rem;
+      margin-top: 10px;
+      position: relative;
+      margin-right: 400px;
+      
+      display: flex;
+      
+    }
+    .feature-icon {
+      color: #f54747;
+      margin-right: 8px;
+    }
+    .form-box {
+        color: rgb(0, 0, 0);
+      background-color: #ffffff;
+      border-radius: 20px;
+      padding: 30px;
+      z-index: 1;
+      position: relative;
+      width: 50%;
+      margin-left: 300px;
+    }
+    .discount-banner {
+      background-color: #f54747;
+      color: white;
+      font-weight: bold;
+      border: solid;
+      border-color: white;
+      padding: 15px;
+      text-align: center;
+      position: relative;
+      width: 50%;
+      margin-left : 300px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  font-size: 1.25rem;
+    }
+    .logo-img {
+      max-width: 150px;
+    }
+    .btn-red {
+      background-color: #f54747;
+      color: white;
+      font-weight: bold;
+      border-radius: 30px;
+    }
+    .mockup-img {
+      width: 25%;
+      max-width: 450px;
+    }
+
+      .responsive img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .slick-slide {
+    padding: 10px;
+  }
+
+  .hero-section image{
+   
+    position: absolute;
+    z-index: 0;
+    padding: 500;
+    margin-bottom: 0px; 
+       
+    padding: clamp(7rem, 20vw, 10rem) 0 3rem;
+  }
+
+  .price-box {
+
+  font-size: 2rem;
+  display: inline-block;
+  border-radius: 2px;
+   border-radius: solid;
+}
+.discount-banner2{
+    background-color: #000000;
+      color: white;
+      font-weight: bolder ;
+
+      text-align: center;
+      position: relative;
+      width: 50%;
+      margin-left : 300px;
+  font-size: 1.25rem;
+  display: inline-block;
+  z-index: 1;
+}
+
+.qwe{
+    left: 115px;
+    bottom: -9px;
+}
+
+.hero-bg{
+   background: url(assets/images/hero-bg-line.svg) no-repeat center / cover, url(assets/images/hero-bg.webp) no-repeat center / cover, #197ea5;
+    padding: clamp(7rem, 20vw, 10rem) 0 3rem;
+}
